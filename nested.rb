@@ -107,7 +107,7 @@ def changing_alan
       }
     }
 
-programmer_hash[2][:known_for]="GUI"
+
 
 end
 
@@ -130,5 +130,7 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
+
+    programmer_hash[:dennis_ritchie][:languages]<< "Assembly"
 
 end
