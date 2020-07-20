@@ -107,6 +107,8 @@ def changing_alan
       }
     }
 
+    programmer_hash[:alan_key][:known_for]
+
 end
 
 def adding_to_dennis
