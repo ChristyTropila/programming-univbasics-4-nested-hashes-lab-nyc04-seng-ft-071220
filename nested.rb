@@ -107,6 +107,7 @@ def changing_alan
       }
     }
 
+programmer_hash[:alan_kay]
 end
 
 def adding_to_dennis
